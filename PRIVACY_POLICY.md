@@ -59,18 +59,9 @@ The App uses:
 - **Supabase** - Database and authentication ([supabase.com/privacy](https://supabase.com/privacy))
 - **Expo** - App infrastructure ([expo.dev/privacy](https://expo.dev/privacy))
 
-## Children's Privacy
-
-The App is not intended for children under 13. We do not knowingly collect information from children under 13.
-
 ## Changes to This Policy
 
 We may update this policy occasionally. We will notify you of significant changes through the App.
-
-## Contact
-
-For privacy questions or data deletion requests:
-- Email: privacy@splitsoup.app
 
 ---
 
