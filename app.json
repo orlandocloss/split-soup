@@ -43,19 +43,20 @@
           "androidMode": "default",
           "androidCollapsedTitle": "Split Soup"
         }
-      ]
+      ],
+      "expo-asset"
     ],
-"runtimeVersion": {
-        "policy": "appVersion"
-      },
-      "extra": {
-        "eas": {
-          "projectId": "f67785e0-07c9-4f46-8e76-9cb59b23c6f5"
-        }
-      },
-      "owner": "orlandocloss",
-      "updates": {
-        "url": "https://u.expo.dev/f67785e0-07c9-4f46-8e76-9cb59b23c6f5"
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f67785e0-07c9-4f46-8e76-9cb59b23c6f5"
       }
+    },
+    "owner": "orlandocloss",
+    "updates": {
+      "url": "https://u.expo.dev/f67785e0-07c9-4f46-8e76-9cb59b23c6f5"
+    }
   }
 }
