@@ -59,6 +59,13 @@ The App uses:
 - **Supabase** - Database and authentication ([supabase.com/privacy](https://supabase.com/privacy))
 - **Expo** - App infrastructure ([expo.dev/privacy](https://expo.dev/privacy))
 
+## Account Deletion
+
+To delete your account and all associated data, email:
+**orlandocloss1@gmail.com**
+
+Your request will be processed within 7 days.
+
 ## Changes to This Policy
 
 We may update this policy occasionally. We will notify you of significant changes through the App.
