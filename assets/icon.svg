@@ -1,0 +1,50 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1024" height="1024" fill="#1a1a1a" rx="200"/>
+  
+  <!-- Bowl shadow -->
+  <ellipse cx="512" cy="720" rx="180" ry="30" fill="rgba(0,0,0,0.4)"/>
+  
+  <!-- Bowl body -->
+  <path d="M262 480 C262 480, 262 680, 512 680 C762 680, 762 480, 762 480 L762 480 C762 480, 762 520, 512 520 C262 520, 262 480, 262 480 Z" fill="#242424"/>
+  
+  <!-- Bowl inner -->
+  <path d="M290 500 C290 500, 290 650, 512 650 C734 650, 734 500, 734 500 L734 500 C734 500, 734 530, 512 530 C290 530, 290 500, 290 500 Z" fill="#1a1a1a"/>
+  
+  <!-- Soup -->
+  <ellipse cx="512" cy="560" rx="190" ry="70" fill="#E63946"/>
+  
+  <!-- Soup highlight -->
+  <ellipse cx="460" cy="540" rx="80" ry="25" fill="#FF5A5A" opacity="0.5"/>
+  
+  <!-- Bowl rim -->
+  <ellipse cx="512" cy="480" rx="250" ry="50" fill="#333333"/>
+  <ellipse cx="512" cy="480" rx="220" ry="40" fill="#242424"/>
+  
+  <!-- Three particles orbiting above -->
+  <!-- Green particle (top) -->
+  <circle cx="512" cy="280" r="45" fill="#00D26A">
+    <animate attributeName="opacity" values="1;0.8;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Orange particle (bottom left) -->
+  <circle cx="380" cy="360" r="45" fill="#FF9500">
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Red particle (bottom right) -->
+  <circle cx="644" cy="360" r="45" fill="#E63946">
+    <animate attributeName="opacity" values="1;0.8;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Subtle glow behind particles -->
+  <circle cx="512" cy="320" r="120" fill="url(#glow)" opacity="0.3"/>
+  
+  <defs>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="white" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
+

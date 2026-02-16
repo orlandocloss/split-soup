@@ -1,0 +1,17 @@
+Split Soup is a minimalist app for sharing events with friends.
+
+Features:
+- Create and manage events with your friends
+- Send event invitations by username
+- Accept or decline invites from friends
+- Get reminders for upcoming events
+- Send quick alerts to your friends
+- Real-time updates when events change
+
+Privacy-focused:
+- No ads or tracking
+- Your data stays on secure servers
+- Minimal permissions required
+
+Perfect for coordinating meetups, group activities, and staying in sync with the people who matter.
+

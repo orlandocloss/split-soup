@@ -1,0 +1,16 @@
+<svg width="96" height="96" viewBox="0 0 96 96" xmlns="http://www.w3.org/2000/svg">
+  <!-- Android notification icons must be white on transparent -->
+  <!-- The system will tint this with your notification color -->
+  
+  <!-- Bowl rim -->
+  <ellipse cx="48" cy="52" rx="36" ry="10" fill="white"/>
+  
+  <!-- Bowl body -->
+  <path d="M12 52 C12 52, 12 76, 48 76 C84 76, 84 52, 84 52" fill="white"/>
+  
+  <!-- Three particles above -->
+  <circle cx="48" cy="24" r="7" fill="white"/>
+  <circle cx="30" cy="36" r="6" fill="white"/>
+  <circle cx="66" cy="36" r="6" fill="white"/>
+</svg>
+

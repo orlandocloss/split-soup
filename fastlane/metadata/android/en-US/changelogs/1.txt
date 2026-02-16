@@ -1,0 +1,6 @@
+Initial release:
+- Create and share events with friends
+- Event invitations and RSVPs
+- Friend alerts and notifications
+- Real-time updates
+
